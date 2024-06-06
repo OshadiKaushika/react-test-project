@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "title": "Cinderella",
+        "content": "Cinderella is a young girl living with her wicked stepmother and two stepsisters who treat her poorly. Despite her hardships, she remains kind and hopeful. When the king announces a royal ball, Cinderella wishes to attend, but her stepmother prevents her from going. With the help of her fairy godmother, she receives a magical makeover and attends the ball, where she captivates the prince. She must leave by midnight when the magic wears off, leaving behind a glass slipper. The prince uses the slipper to find her, and they marry, leading to a happy ending."
+    },
+    {
+        "id": 2,
+        "title": "Little Red Riding Hood",
+        "content":"Little Red Riding Hood is a young girl sent by her mother to deliver food to her sick grandmother. She wears a red hooded cloak. On her way, she meets a cunning wolf who tricks her into revealing her destination. The wolf arrives at the grandmother’s house first, eats the grandmother, and disguises himself as her. When Little Red Riding Hood arrives, she notices that her 'grandmother' looks different. Eventually, the wolf reveals himself and tries to eat her. In some versions, a woodsman rescues her and her grandmother from the wolf."
+    },
+    {
+        "id": 3,
+        "title": "Hansel and Gretel",
+        "content": "Hansel and Gretel are siblings who live with their father and wicked stepmother. Due to famine, the stepmother convinces the father to abandon the children in the forest. Hansel and Gretel leave a trail of breadcrumbs to find their way back, but the birds eat the crumbs. Lost in the forest, they find a house made of candy and are invited in by a witch who plans to eat them. The witch imprisons Hansel and fattens him up. Gretel outwits the witch, pushing her into an oven, and they escape with the witch’s treasure. They return home, and the father, having regretted his actions, welcomes them back."
+    },
+    {
+        "id": 4,
+        "title": "Snow White and the Seven Dwarf",
+        "content": "Snow White, a beautiful princess, is envied by her vain and wicked stepmother, the Queen, who asks her magic mirror who is the fairest in the land. When the mirror tells her that Snow White is the fairest, the Queen orders a huntsman to kill her. The huntsman, unable to do so, lets her go, and Snow White finds refuge with seven dwarfs in their cottage. The Queen eventually discovers Snow White’s location and disguises herself to give Snow White a poisoned apple. Snow White falls into a death-like sleep and is eventually revived by a prince’s kiss. They live happily ever after."
+    },
+    {
+        "id": 5,
+        "title": "Rapunzel",
+        "content": "A couple expecting a child lives next to a witch’s garden. The wife craves the witch’s rapunzel plant, so the husband steals it for her. Caught by the witch, he agrees to give her their child in exchange for mercy. The witch names the girl Rapunzel and locks her in a tower with no door, only accessible by climbing her long hair. A prince hears Rapunzel’s singing, climbs her hair, and they fall in love. The witch discovers their meetings and banishes Rapunzel to a desert and blinds the prince. They eventually reunite, Rapunzel’s tears restore his sight, and they live happily ever after."
+    },
+    {
+        "id": 6,
+        "title": "The Frog Prince",
+        "content": "A young princess loses her golden ball in a pond. A frog offers to retrieve it in exchange for her companionship. The princess reluctantly agrees but dismisses the frog once she has her ball. The frog follows her to the palace and the king, upon hearing the story, insists she keep her promise. The princess allows the frog to eat from her plate and sleep on her pillow. In some versions, the frog transforms into a prince after she kisses him; in others, it happens after she throws him against a wall. The prince reveals he was under a spell and they marry."
+    },
+    {
+        "id": 7,
+        "title": "The Little Mermaid",
+        "content": "A young mermaid named Ariel dreams of living on land. She falls in love with a human prince and makes a deal with the sea witch, Ursula, to trade her voice for human legs. Ariel must make the prince fall in love with her within three days, or she will belong to Ursula forever. Despite many challenges, true love prevails, leading to Ariel’s transformation into a human permanently." 
+    },
+    {
+        "id": 8,
+        "title": "Rumpelstiltskin",
+        "content": "A poor miller lies to the king, claiming his daughter can spin straw into gold. The king demands the girl demonstrate this skill, threatening her life if she fails. Desperate, she is aided by a mysterious dwarf named Rumpelstiltskin, who spins the straw into gold in exchange for her necklace, ring, and eventually, her firstborn child. When the child is born, the girl must guess Rumpelstiltskin’s name to keep her baby, which she eventually discovers, breaking his power over her."
+    },
+    {
+        "id": 9,
+        "title": "The Princess and the Pea",
+        "content": "A prince seeks a true princess to marry but is skeptical of many claiming the title. One stormy night, a drenched young woman arrives at the castle, claiming to be a princess. To test her, the queen places a pea under twenty mattresses and twenty feather beds. The next morning, the young woman complains of discomfort, proving her sensitivity and confirming her royal status. The prince happily marries her."
+    },
+    {
+        "id": 10,
+        "title": "The Ugly Duckling",
+        "content": "A young duckling is born larger and uglier than his siblings, facing constant ridicule and rejection. He endures a harsh winter alone, but in the spring, he discovers he has grown into a beautiful swan. The story highlights the themes of personal transformation and the value of inner beauty."
+    },
+    {
+        "id": 11,
+        "title": "The Twelve Dancing Princesses",
+        "content": "A king has twelve daughters who disappear every night. Despite being locked in their room, their shoes are worn out each morning. The king promises a reward to anyone who can solve the mystery. A soldier aided by an old woman’s advice follows the princesses to an underground realm where they dance with twelve princes. The soldier reveals the secret to the king, who rewards him by allowing him to marry one of the princesses."
+    },
+    {
+        "id": 12,
+        "title": "Beauty and the Beast",
+        "content": "A merchant becomes lost in a storm and seeks shelter in a seemingly abandoned castle, where he picks a rose for his daughter, Beauty. The castle's master, a fearsome Beast, demands the merchant's life in exchange for the rose, but allows him to leave if Beauty comes to stay with him. Beauty agrees and gradually grows to love the Beast, despite his appearance. When Beauty confesses her love, the Beast transforms back into a handsome prince, revealing that her love has broken the curse placed upon him."
+    },
+    {
+        "id": 13,
+        "title": "The Elves and the Shoemaker",
+        "content": "A kind but poor shoemaker and his wife are struggling to make ends meet. One night, the shoemaker leaves unfinished shoes on his workbench, and in the morning, he finds them perfectly crafted. This continues for several nights, and the couple discovers that a group of tiny elves are coming to their shop at night to make the shoes. To show their gratitude, the shoemaker and his wife make new clothes and shoes for the elves. The elves, now well-dressed, dance away and never return, but the shoemaker and his wife prosper thanks to their newfound success."
+    },
+    {
+        "id": 14,
+        "title": "Jack and the Beanstalk",
+        "content": "Jack, a poor boy, sells his family's cow for magic beans. His mother, angry at his foolishness, throws the beans out the window. Overnight, a giant beanstalk grows, reaching the sky. Jack climbs it and finds a giant's castle. He steals a bag of gold, a golden egg-laying goose, and a magical harp. The giant chases him down the beanstalk, but Jack chops it down, causing the giant to fall to his death. Jack and his mother live happily ever after with their newfound riches."
+    },
+    {
+        "id": 15,
+        "title": "The Pied Piper of Hamelin",
+        "content": "The town of Hamelin is plagued by rats. A mysterious piper arrives, promising to rid the town of rats for a fee. The townspeople agree, and the piper plays his magical pipe, leading the rats into the river to drown. When the townspeople refuse to pay him, the piper returns and uses his pipe to lead the town's children away. They disappear into a mountain, never to be seen again. The tale serves as a warning about the consequences of breaking promises and failing to keep one's word."
+    }
+]
